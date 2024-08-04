@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sawa-Abraham-O
 - 👀 I’m interested in making friends and I think maths is cool😎😎
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python for web development
 
 <!---
 Sawa-Abraham-O/Sawa-Abraham-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
